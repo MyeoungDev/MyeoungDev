@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-**👨‍💻I'm a back-end developer who grows through learning and challenges.**
+**👨‍💻 I'm a back-end developer who grows through learning and challenges.**
 
 <a href="https://myeongdev.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
