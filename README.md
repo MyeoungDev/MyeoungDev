@@ -3,23 +3,10 @@
 <img src="https://camo.githubusercontent.com/884fce7159c43c845953f28849fbbd6367b570c71fabcbcfac485ea512ebdedb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=tistory" style="max-width: 100%;">
 
 
-
-<!--
-**MyeoungDev/MyeoungDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyeoungDev&show_icons=true&theme=radical)
 
 
 <img src="https://camo.githubusercontent.com/884fce7159c43c845953f28849fbbd6367b570c71fabcbcfac485ea512ebdedb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java" style="max-width: 100%;">
+
+
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=black">
