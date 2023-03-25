@@ -12,7 +12,7 @@
 
 
 
-### Tech Stack
+### 📚Tech Stack
 
 <div style="display: flex;">
 
