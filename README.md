@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/QueryDsl-4479A1?style=for-the-badge&logo=QueryDSL&logoColor=white">
 
-
-<img src="https://camo.githubusercontent.com/b60156e9a0db258216b8db81360bf01b7da27fdec209959849a65ef761349233/687474703a2f2f696d672e736869656c64732e696f2f62616467652f517565727944534c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d48696265726e617465266c6f676f436f6c6f723d7768697465" alt="QueryDSL" data-canonical-src="http://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&amp;logo=Hibernate&amp;logoColor=white" style="max-width: 100%;">
-
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
