@@ -44,9 +44,8 @@
 
 </div>
 
-### 
-
-<img src="https://img.shields.io/badge/GitHub State-181717?style=for-the-badge&logo=Github&logoColor=white"> Github Stats
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyeoungDev&show_icons=true&theme=radical)
 
